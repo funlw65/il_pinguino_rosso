@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: Il Pinguino Rosso board
+description: The alternative to the Sanguino board features the PIC18F46K22 microcontroller running at 64MHz
+gems:
+- jemoji
